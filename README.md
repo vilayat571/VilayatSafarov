@@ -2,132 +2,84 @@
 <h3 align="center">Frontend Developer & UI/UX Designer</h3>
 
 <p align="center">
-📍 Kuala Lumpur, Malaysia <br/>
-📧 <a href="mailto:vilayat571@gmail.com">vilayat571@gmail.com</a> <br/>
-🔗 <a href="https://linkedin.com/in/vilayat-safarov-1a3b58249">LinkedIn</a>
+  <a href="mailto:vilayat571@gmail.com">📧 vilayat571@gmail.com</a> •
+  <a href="https://linkedin.com/in/vilayat-safarov-1a3b58249">LinkedIn</a> •
+  📍 Kuala Lumpur, Malaysia
 </p>
 
-![](https://komarev.com/ghpvc/?username=vilayat571&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vilayat571&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;UI%2FUX+Designer;React+%7C+TypeScript+%7C+Node.js;Clean+and+Scalable+Code&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 Profile
-I build high-quality websites and admin dashboards using **Node.js, React, TypeScript, and MongoDB**.  
-I have experience in both frontend and backend development, as well as server deployment with **Nginx, Cloudflare, and Ubuntu Server**.
+## 🚀 About Me
+I build high-quality websites and admin dashboards using **React, TypeScript, Node.js, and MongoDB**.  
+I have experience in both frontend and backend development, plus server deployment with **Nginx, Cloudflare, and Ubuntu Server**.
 
-I’ve worked on projects such as:
-- **AzeSert MMC**
-- **Raja Restaurants LLC**
-- **Interviewsland**
-- **Guven Finans**
-- **Aqsa News LLC**
+I’ve worked on real-world projects like:
+- AzeSert HALAL LLC  
+- Raja Restaurants LLC  
+- Interviewsland Startup  
+- Guven Finans LLC  
+- Aqsa News LLC  
 
-I focus on creating **fast, scalable, and user-friendly applications**.
+My focus is on **performance, scalability, and great UI/UX**.
 
 ---
 
 ## 🛠 Tech Stack
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,mongodb,nextjs,tailwind,html,css,bootstrap,materialui,figma,xd" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,nodejs,mongodb,tailwind,html,css,bootstrap,materialui,figma,xd,nginx,linux" />
 </p>
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience Snapshot
 
-### 🔹 Freelance Web Developer  
-**November 2023 – Present | Baku, Azerbaijan**
+- **Frontend Developer – Pilgrim Education LLC**  
+  React, TypeScript, Tailwind, MERN Stack, Figma  
+  Project: https://pilgrimedu.az  
 
-- **Raja Restaurants LLC** – https://rajarestaurants.com  
-  Built website & admin dashboard using Node.js, MongoDB, React + TypeScript, deployed with Nginx & Cloudflare.  
+- **Frontend Developer – AzeSERT HALAL LLC**  
+  React TS, Node.js, MongoDB, Nginx, Ubuntu Server  
+  Project: https://halalcert.az  
 
-- **Interviewsland Startup** – https://interviews-land.info  
-  Developed platform using Node.js, React.js, JavaScript, UI designed in Figma.  
+- **Frontend Developer – Kodaze LLC**  
+  Next.js, TypeScript, Tailwind, CRM systems  
 
-- **Guven Finans LLC** – https://guvenfinans.az  
-  Redeveloped website using React, TypeScript, Tailwind CSS, Node.js.  
-
-- **Aqsa News LLC** – https://aqsanews.com  
-  Developed website with API throttling for search functionality using Node.js, React, MongoDB, Figma UI.
-
----
-
-### 🔹 Frontend Developer – Pilgrim Education LLC  
-**June 2024 – November 2024**  
-Project: https://pilgrimedu.az  
-
-- Frontend with **React.js, TypeScript, Tailwind CSS**
-- Backend using **MERN stack**
-- UI/UX designed in **Figma**
-
----
-
-### 🔹 Frontend Developer – AzeSERT HALAL LLC  
-**May 2024 – August 2024 | Baku, Azerbaijan**  
-Project: https://halalcert.az  
-
-- Developed company website & admin dashboard  
-- Stack: **Node.js, React TypeScript, MongoDB**  
-- Deployment: **Nginx, Ubuntu Server, Cloudflare**
-
----
-
-### 🔹 Frontend Developer – Kodaze LLC  
-**November 2021 – May 2022**  
-Project: https://kodaze.com  
-
-- Built custom solutions using **Next.js, React, TypeScript, Tailwind CSS**
-- Helped set up internal CRM system
-
----
-
-### 🔹 Frontend Developer (Intern) – ITEM Academy  
-**January 2021 – September 2021**  
-Project: https://umico-clone.app  
-
-- Worked on internal systems using **React.js, JavaScript, CSS**
+- **Freelance Web Developer**  
+  Built multiple production projects using MERN stack, deployed with Cloudflare + Nginx  
 
 ---
 
 ## 🎓 Education
 
 🎓 **PhD – Computer Engineering**  
-Institut Kemahiran Baitulmal  
-2025 – Present | Kuala Lumpur, Malaysia  
+Institut Kemahiran Baitulmal (2025 – Present)
 
 🎓 **Master – Information Security**  
-Western Caspian University  
-2024 – 2025  
+Western Caspian University (2024 – 2025)
 
 🎓 **Bachelor – Information Security**  
-Azerbaijan State Oil and Industry University  
-2020 – 2024  
-
----
-
-## 🧠 Skills
-- React JS
-- JavaScript / TypeScript
-- Node JS
-- MongoDB
-- Tailwind CSS
-- Next JS
-- HTML / CSS
-- Bootstrap / Material UI
-- State Management
-- Figma / Adobe XD
-- UI & UX Design
+Azerbaijan State Oil and Industry University (2020 – 2024)
 
 ---
 
 ## 🌍 Languages
-- 🇦🇿 Azerbaijani  
-- 🇷🇺 Russian  
-- 🇬🇧 English  
-- 🇹🇷 Turkish  
+- Azerbaijani  
+- Russian  
+- English  
+- Turkish  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vilayat571&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vilayat571&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vilayat571&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilayat571&layout=compact&theme=dark" />
+</p>
